@@ -1,8 +1,8 @@
-### Name : Monika Choudhary
-### Company name : Oasis Infobyte
-### Id : OIB/J2/IP12700
+### Name: Monika Choudhary
+### Company name : Codtech IT Solutions
+### ID: CT8DS1233
 ### Domain: Data Science
-### Duration : 1 Month
+### Duration : 2 months
 
 ## Overview of the Project 
 ### Project : Car prediction using Machine Learning
